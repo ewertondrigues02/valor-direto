@@ -21,8 +21,8 @@ Um conjunto de **aplicativos web** construídos com **Vue 3** e **TypeScript** p
 1. **Clone** o repositório
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
-   cd seu-projeto
+   git clone https://github.com/ewertondrigues02/valor-direto.git
+   cd valor-direto
    ```
 2. **Instale** dependências
 
@@ -34,7 +34,7 @@ Um conjunto de **aplicativos web** construídos com **Vue 3** e **TypeScript** p
    ```bash
    npm run serve
    ```
-4. **Acesse** em `http://localhost:8080/`
+4. **Acesse** em `http://localhost:5173/`
 
 ---
 
